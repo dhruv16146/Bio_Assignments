@@ -1,0 +1,19 @@
+#Python Version:2.7
+#Dhruv Bhagat
+#B-Tech:CSE
+#2016146
+
+Gene Expression:Genes are made up of DNA which contains the information about how to make genetic products like protein (with process involving transcription and translation for protein),
+				this whole process by which information within DNA about the synthesis of genetic products(protein) is interpreted by cell so as to synthesise protein is known 
+				as gene expression.
+Gene Expression levels:It is an estimation that corresponds to the m-RNA or protein levels,that will/shall be produced as a result of Gene Expression Phenomenon.
+
+
+RT-PCR is one of the techniques used for estimation,
+	A probe is set b/w DNA and produced RNA molecules
+	Each side of the probe at different end contains a fluoroscent material fluorochrome
+	Amount of fluoroscene released during reaction is measured so as to estimate the amount of product generated in each cycle
+	(quencher and reporter are the terms used for ends of the probe)
+	
+Z-Score:A z-score for a sample indicates the number of standard deviations away from the mean of expression in the reference.
+		z = (Xi -mean)/standard_deviation
